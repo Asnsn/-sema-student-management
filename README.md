@@ -1,5 +1,3 @@
-Excelente! Um PWA de administração é uma ferramenta poderosa. Aqui está uma proposta de README bem completa, focada em um Progressive Web App (PWA) para a gestão de alunos, modalidades e esportes da instituição Sema.
-
 Sistema de Gestão SEMA - PWA
 Bem-vindo ao repositório do Sistema de Gestão da Instituição Sema, um Progressive Web App (PWA) desenvolvido para otimizar a administração de alunos, modalidades e esportes.
 
